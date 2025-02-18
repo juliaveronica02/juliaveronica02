@@ -24,3 +24,8 @@ A passionate learner and experimenter, I thrive on exploring new technologies an
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juliaveronica02&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juliaveronica02&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaveronica02&layout=compact" />
+</div>
