@@ -28,6 +28,5 @@ A passionate learner and experimenter, I thrive on exploring new technologies an
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juliaveronica02&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaveronica02&layout=compact" />
+  <img src="https://visitcount.itsvg.in/api?id=juliaveronica02&icon=0&color=1" />
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=juliaveronica02&icon=0&color=1)](https://visitcount.itsvg.in)
